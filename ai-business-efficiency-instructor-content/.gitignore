@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Temporary Office files
+~$*
+
+# Generated site output
+site/
+.cache/
+
+# Local environment files
+.env
+.env.*
+!.env.example
