@@ -17,6 +17,9 @@ Desktop.ini
 site/
 .cache/
 
+# Local learning artifacts (never commit work or real business data)
+learning-artifacts/
+
 # Local environment files
 .env
 .env.*

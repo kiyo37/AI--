@@ -1,0 +1,50 @@
+name: 教材内容の改善提案
+description: 架空情報だけを使って誤記・説明・アクセシビリティを改善する
+title: "[教材改善] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        このフォームは教材内容の改善専用です。実在する会社・顧客・従業者の情報、社内文書、内部URL、未公開数値、認証情報、AIへの実際の入力・出力を投稿しないでください。事故や個別業務の相談は所属組織の正式窓口へ連絡してください。
+  - type: input
+    id: target
+    attributes:
+      label: 対象ファイル・見出し
+      description: リポジトリ内のファイル名と見出しを書いてください。
+      placeholder: 例：03_business_process_analysis.md「AI・人・通常自動化の分担」
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 問題点
+      description: 架空情報だけを使い、何が分かりにくい・不正確か説明してください。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 改善案
+      description: 修正文、構成案、再現手順などを書いてください。
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 公式根拠と確認日
+      description: 製品・法令・公的情報に関する変更では、公式URL、発行主体、確認日を書いてください。該当しなければ「該当なし」と書いてください。
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: 公開前の安全確認
+      options:
+        - label: 実在する機密情報・個人情報・認証情報を含めていません。
+          required: true
+        - label: AIへの実際の業務入力・出力、社内文書、内部URLを含めていません。
+          required: true
+        - label: 法律・医療・金融・人事等の個別判断や事故対応を公開Issueで求めていません。
+          required: true
+        - label: 第三者の文章・画像・教材を無断で転載していません。
+          required: true
