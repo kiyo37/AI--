@@ -1,6 +1,8 @@
 # 03 業務プロセス分析：成果物例と自己点検
 
-- 元教材：[03 業務プロセス分析](../../03_business_process_analysis.md)
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ ステップ 4 / 11**
+> [← 本編：03 業務プロセス分析](../../03_business_process_analysis.md) ・ [自己点検一覧](../README.md) ・ [次：04 プロンプトエンジニアリング →](../../04_prompt_engineering.md)
+
 - 使用様式：[業務分析シート](../../templates/business_analysis_sheet.md)
 - 対応演習：対話AIと業務分析シートで月次問い合わせ報告を分解する
 
@@ -244,4 +246,7 @@ AI実操作：架空業務を入力し、分解候補の採用・修正・却下
 - [ ] 危険な状態に当たる箇所を先に修正した
 - [ ] 動作の粒度、停止条件、効果指標のいずれか1点を改善して再保存した
 
-[第03章へ戻る](../../03_business_process_analysis.md)｜[次の章：04 プロンプトエンジニアリング](../../04_prompt_engineering.md)
+---
+
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ ステップ 4 / 11**
+> [← 本編：03 業務プロセス分析](../../03_business_process_analysis.md) ・ [自己点検一覧](../README.md) ・ [次：04 プロンプトエンジニアリング →](../../04_prompt_engineering.md)

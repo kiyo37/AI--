@@ -1,6 +1,8 @@
 # 05 ハルシネーションとファクトチェック 自己点検ガイド
 
-- 本編：[05 ハルシネーションとファクトチェック](../../05_hallucination_and_fact_checking.md)
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ ステップ 6 / 11**
+> [← 本編：05 ハルシネーションとファクトチェック](../../05_hallucination_and_fact_checking.md) ・ [自己点検一覧](../README.md) ・ [次：06 著作権とAIガバナンス →](../../06_copyright_and_ai_governance.md)
+
 - 環境準備：[Perplexity演習環境セットアップ](../../setup/perplexity_setup.md)
 - 対応練習：未検証の回答候補を主張へ分け、一次情報で検証する
 - 公式情報の確認日：学習した日に自分で記録
@@ -223,4 +225,7 @@ YYYY-MM-DDに、Perplexityが発行する公式ヘルプ（正規ドメイン：
 3. 修正した主張だけでなく、変更していない主張も再照合します。
 4. 完成後も、製品仕様に関する内容は利用時点の公式ページを再確認します。
 
-[第05章へ戻る](../../05_hallucination_and_fact_checking.md)｜[次へ：第06章](../../06_copyright_and_ai_governance.md)
+---
+
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ ステップ 6 / 11**
+> [← 本編：05 ハルシネーションとファクトチェック](../../05_hallucination_and_fact_checking.md) ・ [自己点検一覧](../README.md) ・ [次：06 著作権とAIガバナンス →](../../06_copyright_and_ai_governance.md)

@@ -1,5 +1,8 @@
 # 業務ヒアリング・改善提案演習：自己点検ガイド
 
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ 演習 8 / 8・設計・リスク**
+> [← 演習本文：業務ヒアリングからAI活用試行提案](../../exercises/business_interview_improvement_proposal_exercises.md) ・ [自己点検一覧](../README.md) ・ [次：実務転用シート →](../../workbooks/work_transfer_sheet.md)
+
 > [!TIP]
 > 6〜7列の表はGitHubでは横へスクロールします。`No.`または`工程`を共通キーに、まずBeforeの入出力、次に人の判断、最後にAfterの停止・復旧を確認してください。
 
@@ -175,3 +178,8 @@
 - AIを使わない改善、通常の自動化、手順簡素化も比較しているか
 - 安全条件が分からない状態で、実データを使うPoCへ進めていないか
 - 指摘の採否と理由を記録し、最終成果物へ反映しているか
+
+---
+
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ 演習 8 / 8・設計・リスク**
+> [← 演習本文：業務ヒアリングからAI活用試行提案](../../exercises/business_interview_improvement_proposal_exercises.md) ・ [自己点検一覧](../README.md) ・ [次：実務転用シート →](../../workbooks/work_transfer_sheet.md)

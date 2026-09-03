@@ -1,5 +1,8 @@
 # AI利用リスク判断演習
 
+> **[学習マップ](../START_HERE.md) ｜ 実務ハンズオン（第07章の後） ｜ 演習 7 / 8・設計・リスク**
+> [← 前：業務プロセスマッピング](business_process_mapping_exercises.md) ・ [次：業務ヒアリングからAI活用試行提案 →](business_interview_improvement_proposal_exercises.md) ・ [演習一覧](README.md) ・ [この演習の自己点検](../self-check/exercises/risk_judgment_self_check.md)
+
 > このファイルから学習を始める場合は、[用語集](../glossary.md)も開いてください。**残余リスク**は対策後にも残るリスク、**RAG**は関係資料を検索して回答材料にする仕組みです。
 
 ## この演習の目的
@@ -315,3 +318,8 @@ AIの文章ではなく、この演習からリンクされた架空元資料、
 ### 次へ
 
 この演習を終えたら、[業務ヒアリングからAI活用試行提案](business_interview_improvement_proposal_exercises.md)へ進みます。
+
+---
+
+> **[学習マップ](../START_HERE.md) ｜ 実務ハンズオン（第07章の後） ｜ 演習 7 / 8・設計・リスク**
+> [← 前：業務プロセスマッピング](business_process_mapping_exercises.md) ・ [次：業務ヒアリングからAI活用試行提案 →](business_interview_improvement_proposal_exercises.md) ・ [演習一覧](README.md) ・ [この演習の自己点検](../self-check/exercises/risk_judgment_self_check.md)

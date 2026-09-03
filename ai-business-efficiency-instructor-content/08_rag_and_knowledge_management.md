@@ -1,5 +1,8 @@
 # 08 RAG（検索拡張生成）とナレッジマネジメント
 
+> **[学習マップ](START_HERE.md) ｜ 任意発展編 ｜ ステップ 9 / 11**
+> [← 前：実務ハンズオン演習ガイド](exercises/README.md) ・ [次：09 AI自動化とAIエージェント →](09_ai_automation_and_agents.md) ・ [この章の自己点検](self-check/chapters/08_rag_and_knowledge_management_self_check.md)
+
 > **位置付け：任意発展**　社内文書検索やFAQ整備を担当する人が、基礎・安全・業務分解を学んだ後に進む章です。実際の社内文書を使うPoCはこの自習と分け、正式な承認、検証環境、担当部門の監督を整えてから行います。
 
 ## この章を始める前に
@@ -460,4 +463,7 @@ RAGは、関連文書を検索してから回答する仕組みです。品質�
 3. 必要な箇所だけ成果物例と比較し、回答、根拠、版、適用対象の差を記録します。
 4. 1点だけ修正し、資料外質問を含む同じ質問セットで再確認します。
 
-[← 07 AIツールの用途と使い分け](07_ai_tools_overview.md)｜[学習の入口](README.md)｜[次へ：09 AI自動化とAIエージェント（任意発展）→](09_ai_automation_and_agents.md)
+---
+
+> **[学習マップ](START_HERE.md) ｜ 任意発展編 ｜ ステップ 9 / 11**
+> [← 前：実務ハンズオン演習ガイド](exercises/README.md) ・ [次：09 AI自動化とAIエージェント →](09_ai_automation_and_agents.md) ・ [この章の自己点検](self-check/chapters/08_rag_and_knowledge_management_self_check.md)

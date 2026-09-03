@@ -1,5 +1,8 @@
 # 問い合わせ明細からExcel月次報告を作る演習
 
+> **[学習マップ](../START_HERE.md) ｜ 実務ハンズオン（第07章の後） ｜ 演習 3 / 8・成果物作成**
+> [← 前：Zoom・Teams共通のテレビ会議議事録](video_meeting_minutes_exercises.md) ・ [次：引継ぎメモから業務マニュアル →](business_manual_creation_exercises.md) ・ [演習一覧](README.md) ・ [この演習の自己点検](../self-check/exercises/inquiry_excel_monthly_report_self_check.md)
+
 ## このページの見取り図
 
 - [目的と成果物](#この演習の目的)
@@ -292,7 +295,7 @@ AI候補の行数・連番・IDが完全に一致した場合だけ、`作業用
 3. G、H、I、Kを採用・修正します。
 4. 原因や対応結論がK列へ混ざっていれば、元文の短い根拠語句へ直します。
 5. AからMまでをもう一度確認した後、L列へ`確認済み`と入力します。
-6. [レビューシートの30行照合欄](../workbooks/inquiry_monthly_review_sheet.md#3-30行の全件照合)へ結果を記録します。
+6. [レビューシートの30行照合欄](../workbooks/inquiry_monthly_review_sheet.md#3-30行の全件照合)へ結果を記録します。記入する列は `結果` `最終主分類` `副論点` `優先確認候補` `データ品質・集計対象` `根拠・修正メモ` `全項目確認` の7つです（`連番`と`問い合わせID`は記入済み）。
 
 AIが同じ分類を出していても、照合を省略しません。判断できないものは`保留（情報不足）`とし、集計のために無理に通常分類へ入れません。
 
@@ -448,7 +451,7 @@ AIのチャット画面や問題例を別ファイルとして保存しません
 
 ### Markdown経路
 
-1. [レビューシートの30行照合欄](../workbooks/inquiry_monthly_review_sheet.md#3-30行の全件照合)へ最終主分類等を記入します。
+1. [レビューシートの30行照合欄](../workbooks/inquiry_monthly_review_sheet.md#3-30行の全件照合)へ、`結果` `最終主分類` `副論点` `優先確認候補` `データ品質・集計対象` `根拠・修正メモ` `全項目確認` を30行すべて記入します。
 2. 分類ごとに1件ずつ正の字またはチェックを付けて数えます。
 3. 電卓を使える場合は、`分類件数 ÷ 集計対象件数 × 100`で構成比を小数1桁まで計算します。
 4. レビューシートのMarkdownひな形へ、明細、集計、月次報告をまとめます。
@@ -527,3 +530,8 @@ AIの文章ではなく、この演習からリンクされた架空元資料、
 ### 次へ
 
 この演習を終えたら、[引継ぎメモから業務マニュアル](business_manual_creation_exercises.md)へ進みます。
+
+---
+
+> **[学習マップ](../START_HERE.md) ｜ 実務ハンズオン（第07章の後） ｜ 演習 3 / 8・成果物作成**
+> [← 前：Zoom・Teams共通のテレビ会議議事録](video_meeting_minutes_exercises.md) ・ [次：引継ぎメモから業務マニュアル →](business_manual_creation_exercises.md) ・ [演習一覧](README.md) ・ [この演習の自己点検](../self-check/exercises/inquiry_excel_monthly_report_self_check.md)

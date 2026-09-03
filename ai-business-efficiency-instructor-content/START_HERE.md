@@ -60,6 +60,24 @@ ai-learning-work/
 
 `self-check/`の例は唯一の正解ではありません。自分の成果物を作って保存する前に、成果物例を丸写ししないでください。
 
+### 現在地の見方
+
+各章、各演習、各自己点検のページには、**冒頭と末尾の同じ位置に同じ形式のナビゲーション**があります。
+
+```text
+> **[学習マップ] ｜ 必修編 ｜ ステップ 6 / 11**
+> [← 前：04 プロンプトエンジニアリング] ・ [次：06 著作権とAIガバナンス →] ・ [この章の自己点検]
+```
+
+| 表示 | 意味 |
+|---|---|
+| `ステップ N / 11` | 下の学習マップの番号。今どこにいるかを表す |
+| `演習 N / 8` | 実務ハンズオンの通し番号と区分（成果物作成／設計・リスク） |
+| `学習マップ` | このページ（START_HERE）へ戻る |
+| `← 前` / `次 →` | 迷ったときに開くべき前後のページ |
+
+ページの途中で分からなくなったら、いちばん上かいちばん下へ戻れば、必ず現在地と戻り先が分かります。
+
 ## 6. 学習マップ
 
 ### 6.1 導入
@@ -87,16 +105,16 @@ ai-learning-work/
 
 [実務ハンズオン演習ガイド](exercises/README.md)も併用します。総合課題へ進む前に、**成果物作成から一つ以上、設計・リスクから一つ以上**を完了します。
 
-| 区分 | 演習 | 主な成果物 | 自己点検 |
-|---|---|---|---|
-| 成果物作成 | [メール・議事録・報告書](exercises/email_minutes_report_exercises.md) | 返信文、議事録、報告書、要約 | [自己点検](self-check/exercises/email_minutes_report_self_check.md) |
-| 成果物作成 | [Zoom・Teams共通のテレビ会議議事録](exercises/video_meeting_minutes_exercises.md) | 検証済み議事録、根拠位置付きタスク一覧 | [自己点検](self-check/exercises/video_meeting_minutes_self_check.md) |
-| 成果物作成 | [問い合わせ明細からExcel月次報告](exercises/inquiry_excel_monthly_report_exercises.md) | 分類済み明細、集計表、月次報告 | [自己点検](self-check/exercises/inquiry_excel_monthly_report_self_check.md) |
-| 成果物作成 | [引継ぎメモから業務マニュアル](exercises/business_manual_creation_exercises.md) | テスト済み手順書、例外処理、改訂履歴 | [自己点検](self-check/exercises/business_manual_creation_self_check.md) |
-| 設計・リスク | [プロンプト受入テスト](exercises/prompt_acceptance_testing_exercises.md) | 改善前後の指示、テスト記録、停止条件 | [自己点検](self-check/exercises/prompt_acceptance_testing_self_check.md) |
-| 設計・リスク | [業務プロセスマッピング](exercises/business_process_mapping_exercises.md) | Before / After、AI・人・通常自動化の役割 | [自己点検](self-check/exercises/business_process_mapping_self_check.md) |
-| 設計・リスク | [AI利用リスク判断](exercises/risk_judgment_exercises.md) | 入力可否、停止、相談の判断記録 | [自己点検](self-check/exercises/risk_judgment_self_check.md) |
-| 設計・リスク | [業務ヒアリングからAI活用試行提案](exercises/business_interview_improvement_proposal_exercises.md) | 事実・仮定・未確認の記録、Before / After、1ページ提案 | [自己点検](self-check/exercises/business_interview_improvement_proposal_self_check.md) |
+| 演習 | 区分 | 演習ページ | 主な成果物 | 自己点検 |
+|---:|---|---|---|---|
+| 1 | 成果物作成 | [メール・議事録・報告書](exercises/email_minutes_report_exercises.md) | 返信文、議事録、報告書、要約 | [自己点検](self-check/exercises/email_minutes_report_self_check.md) |
+| 2 | 成果物作成 | [Zoom・Teams共通のテレビ会議議事録](exercises/video_meeting_minutes_exercises.md) | 検証済み議事録、根拠位置付きタスク一覧 | [自己点検](self-check/exercises/video_meeting_minutes_self_check.md) |
+| 3 | 成果物作成 | [問い合わせ明細からExcel月次報告](exercises/inquiry_excel_monthly_report_exercises.md) | 分類済み明細、集計表、月次報告 | [自己点検](self-check/exercises/inquiry_excel_monthly_report_self_check.md) |
+| 4 | 成果物作成 | [引継ぎメモから業務マニュアル](exercises/business_manual_creation_exercises.md) | テスト済み手順書、例外処理、改訂履歴 | [自己点検](self-check/exercises/business_manual_creation_self_check.md) |
+| 5 | 設計・リスク | [プロンプト受入テスト](exercises/prompt_acceptance_testing_exercises.md) | 改善前後の指示、テスト記録、停止条件 | [自己点検](self-check/exercises/prompt_acceptance_testing_self_check.md) |
+| 6 | 設計・リスク | [業務プロセスマッピング](exercises/business_process_mapping_exercises.md) | Before / After、AI・人・通常自動化の役割 | [自己点検](self-check/exercises/business_process_mapping_self_check.md) |
+| 7 | 設計・リスク | [AI利用リスク判断](exercises/risk_judgment_exercises.md) | 入力可否、停止、相談の判断記録 | [自己点検](self-check/exercises/risk_judgment_self_check.md) |
+| 8 | 設計・リスク | [業務ヒアリングからAI活用試行提案](exercises/business_interview_improvement_proposal_exercises.md) | 事実・仮定・未確認の記録、Before / After、1ページ提案 | [自己点検](self-check/exercises/business_interview_improvement_proposal_self_check.md) |
 
 すべて行う必要はありません。選んだ演習では、元資料照合、一か所以上の修正、完了条件の確認まで省略しません。
 

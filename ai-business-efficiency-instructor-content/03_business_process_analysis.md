@@ -1,6 +1,7 @@
 # 03 業務プロセス分析
 
-[前の章：02 セキュリティとプライバシー](02_security_and_privacy.md)｜[学習ガイドへ戻る](START_HERE.md)｜[次の章：04 プロンプトエンジニアリング](04_prompt_engineering.md)
+> **[学習マップ](START_HERE.md) ｜ 必修編 ｜ ステップ 4 / 11**
+> [← 前：02 セキュリティとプライバシー](02_security_and_privacy.md) ・ [次：04 プロンプトエンジニアリング →](04_prompt_engineering.md) ・ [この章の自己点検](self-check/chapters/03_business_process_analysis_self_check.md)
 
 ## この章を始める前に
 
@@ -344,4 +345,7 @@ AI業務効率化は、業務を細かい動作へ分解し、通常の自動化
 3. 「一致必須」「成立する別解」「危険な状態」を確認し、AI案の採否理由を説明します。
 4. 最後に、動作の粒度、停止条件、効果指標のいずれか1点を修正して再保存します。
 
-[前の章：02 セキュリティとプライバシー](02_security_and_privacy.md)｜[学習ガイドへ戻る](START_HERE.md)｜[次の章：04 プロンプトエンジニアリング](04_prompt_engineering.md)
+---
+
+> **[学習マップ](START_HERE.md) ｜ 必修編 ｜ ステップ 4 / 11**
+> [← 前：02 セキュリティとプライバシー](02_security_and_privacy.md) ・ [次：04 プロンプトエンジニアリング →](04_prompt_engineering.md) ・ [この章の自己点検](self-check/chapters/03_business_process_analysis_self_check.md)

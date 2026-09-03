@@ -1,5 +1,8 @@
 # 業務ヒアリングからAI活用試行提案を作る演習
 
+> **[学習マップ](../START_HERE.md) ｜ 実務ハンズオン（第07章の後） ｜ 演習 8 / 8・設計・リスク**
+> [← 前：AI利用リスク判断](risk_judgment_exercises.md) ・ [次：実務転用シート →](../workbooks/work_transfer_sheet.md) ・ [演習一覧](README.md) ・ [この演習の自己点検](../self-check/exercises/business_interview_improvement_proposal_self_check.md)
+
 > この演習では、教材として一から作った完全な架空情報だけを扱います。実在する業務名、顧客、社員、案件、件数、システム、社内規程を発言・記入・AI入力しません。
 
 **推奨する前提**：[第04章 プロンプト](../04_prompt_engineering.md)、[第03章 業務プロセス分析](../03_business_process_analysis.md)、[第02章 セキュリティ](../02_security_and_privacy.md)、[第05章 ファクトチェック](../05_hallucination_and_fact_checking.md)、[第06章 AIガバナンス](../06_copyright_and_ai_governance.md)を先に学びます。
@@ -136,7 +139,7 @@
 
 ### 操作1：自分でヒアリング質問を準備する
 
-[記録シートの12観点](../workbooks/business_interview_record_sheet.md#2-ヒアリング質問と回答)について、自分の質問を書きます。質問を書く前に、段階開示プロフィールのカードや[保存済みの問題提案例](../sample-outputs/business_interview_saved_responses.md)を読んではいけません。
+[記録シートの12観点](../workbooks/business_interview_record_sheet.md#2-ヒアリング質問と回答)について、自分の質問を書きます。12観点は `1 業務の目的` `2 開始・完了` `3 件数・頻度・繁忙` `4 現在の工程` `5 入力情報と情報区分` `6 出力と利用先` `7 通常・境界・例外` `8 判断者・承認者` `9 現在の時間・品質` `10 利用環境・制約` `11 効果・停止条件` `12 未決事項・相談先` です。各行へ `質問` `回答` `状態（確認済み／未確認）` `根拠カード・回答者` を記入します。質問を書く前に、段階開示プロフィールのカードや[保存済みの問題提案例](../sample-outputs/business_interview_saved_responses.md)を読んではいけません。
 
 自分の質問を作った後、承認済み対話AIへ次の架空情報だけを入力します。
 
@@ -271,7 +274,7 @@ AIが作った提案草案を元資料と照合した後、任意で保存済み
 
 ### 振り返り
 
-[記録シートの振り返り](../workbooks/business_interview_record_sheet.md#10-振り返り)へ記入します。その後、[実務転用シート](../workbooks/work_transfer_sheet.md)には実務を一般化した名前と情報の種類だけを書き、実在情報は記入しません。
+[記録シートの振り返り](../workbooks/business_interview_record_sheet.md#10-振り返り)へ、`最初の依頼文から思い込んでしまったこと` `質問しなければ分からなかった重要事項` `AIへ任せないと決めた判断と理由` `次回のヒアリングで最初に聞く質問` の4項目を記入します。その後、[実務転用シート](../workbooks/work_transfer_sheet.md)には実務を一般化した名前と情報の種類だけを書き、実在情報は記入しません。
 
 ### 終了処理
 
@@ -345,3 +348,8 @@ AIの文章ではなく、この演習からリンクされた架空元資料、
 ### 次へ
 
 この演習を終えたら、[実務転用シート](../workbooks/work_transfer_sheet.md)へ進みます。
+
+---
+
+> **[学習マップ](../START_HERE.md) ｜ 実務ハンズオン（第07章の後） ｜ 演習 8 / 8・設計・リスク**
+> [← 前：AI利用リスク判断](risk_judgment_exercises.md) ・ [次：実務転用シート →](../workbooks/work_transfer_sheet.md) ・ [演習一覧](README.md) ・ [この演習の自己点検](../self-check/exercises/business_interview_improvement_proposal_self_check.md)

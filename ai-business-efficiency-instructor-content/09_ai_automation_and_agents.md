@@ -1,5 +1,8 @@
 # 09 AI自動化とAIエージェント
 
+> **[学習マップ](START_HERE.md) ｜ 任意発展編 ｜ ステップ 10 / 11**
+> [← 前：08 RAGとナレッジマネジメント](08_rag_and_knowledge_management.md) ・ [次：10 総合業務改善プロジェクト →](10_business_application_capstone.md) ・ [この章の自己点検](self-check/chapters/09_ai_automation_and_agents_self_check.md)
+
 > **位置付け：任意発展**　生成AIの基本、安全な入力、出力確認、業務分解を学んだ後に進む章です。Power Automate、Make、Zapierへの接続や自動実行は任意ですが、承認・利用条件を確認した対話AIによる架空問い合わせの分類操作は必要です。実業務のPoCはこの自習と分け、正式な承認と検証環境を整えてから行います。
 
 ## この章を始める前に
@@ -512,4 +515,7 @@ AI自動化・エージェントは、生成結果を外部システムの動作
 3. 必要な箇所だけ成果物例と比較し、承認、権限、停止、復旧の差を記録します。
 4. 1点だけ修正し、正常・重複・対象外・外部命令の各ケースで再確認します。実システムでは実行しません。
 
-[← 08 RAGとナレッジマネジメント](08_rag_and_knowledge_management.md)｜[学習の入口](README.md)｜[次へ：10 業務適用キャップストーン →](10_business_application_capstone.md)
+---
+
+> **[学習マップ](START_HERE.md) ｜ 任意発展編 ｜ ステップ 10 / 11**
+> [← 前：08 RAGとナレッジマネジメント](08_rag_and_knowledge_management.md) ・ [次：10 総合業務改善プロジェクト →](10_business_application_capstone.md) ・ [この章の自己点検](self-check/chapters/09_ai_automation_and_agents_self_check.md)

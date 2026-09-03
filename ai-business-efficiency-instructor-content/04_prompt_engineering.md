@@ -1,6 +1,7 @@
 # 04 プロンプトエンジニアリング
 
-[前の章：03 業務プロセス分析](03_business_process_analysis.md)｜[学習ガイドへ戻る](START_HERE.md)｜[次の章：05 ハルシネーションとファクトチェック](05_hallucination_and_fact_checking.md)
+> **[学習マップ](START_HERE.md) ｜ 必修編 ｜ ステップ 5 / 11**
+> [← 前：03 業務プロセス分析](03_business_process_analysis.md) ・ [次：05 ハルシネーションとファクトチェック →](05_hallucination_and_fact_checking.md) ・ [この章の自己点検](self-check/chapters/04_prompt_engineering_self_check.md)
 
 ## この章を始める前に
 
@@ -421,4 +422,7 @@ flowchart TD
 3. 「一致必須」「成果物例」「成立する別解」「危険な状態」を順に確認します。
 4. 最後に、追加指示または再照合記録のどちらか1点を修正して再保存します。
 
-[前の章：03 業務プロセス分析](03_business_process_analysis.md)｜[学習ガイドへ戻る](START_HERE.md)｜[次の章：05 ハルシネーションとファクトチェック](05_hallucination_and_fact_checking.md)
+---
+
+> **[学習マップ](START_HERE.md) ｜ 必修編 ｜ ステップ 5 / 11**
+> [← 前：03 業務プロセス分析](03_business_process_analysis.md) ・ [次：05 ハルシネーションとファクトチェック →](05_hallucination_and_fact_checking.md) ・ [この章の自己点検](self-check/chapters/04_prompt_engineering_self_check.md)

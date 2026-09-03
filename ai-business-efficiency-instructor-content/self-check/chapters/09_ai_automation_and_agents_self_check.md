@@ -1,6 +1,7 @@
 # 09 AI自動化とAIエージェント 自己点検ガイド
 
-[本編「09 AI自動化とAIエージェント」へ戻る](../../09_ai_automation_and_agents.md)
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ ステップ 10 / 11**
+> [← 本編：09 AI自動化とAIエージェント](../../09_ai_automation_and_agents.md) ・ [自己点検一覧](../README.md) ・ [次：10 総合業務改善プロジェクト →](../../10_business_application_capstone.md)
 
 > **任意発展の自己点検資料です。** 便利に動くかではなく、人間承認、最小権限、ログ、停止、手動復旧が設計されているかを自分で確かめます。実メール、実カレンダー、実ファイル、実データベースへは接続しません。
 
@@ -322,4 +323,7 @@ AIは公開FAQに基づく草案と根拠候補を作る。
 3. 正常・重複・対象外・外部命令の全ケースを再確認します。
 4. Power Automate、Make、Zapierの機能、料金、契約、コネクタ、管理機能は変わるため、実利用時に最新の公式情報と組織設定を確認します。
 
-[第09章へ戻る](../../09_ai_automation_and_agents.md)｜[次へ：第10章](../../10_business_application_capstone.md)
+---
+
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ ステップ 10 / 11**
+> [← 本編：09 AI自動化とAIエージェント](../../09_ai_automation_and_agents.md) ・ [自己点検一覧](../README.md) ・ [次：10 総合業務改善プロジェクト →](../../10_business_application_capstone.md)

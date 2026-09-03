@@ -1,5 +1,8 @@
 # 07 AIツールの用途と使い分け
 
+> **[学習マップ](START_HERE.md) ｜ 必修編（この章の後に実務ハンズオンへ） ｜ ステップ 8 / 11**
+> [← 前：06 著作権とAIガバナンス](06_copyright_and_ai_governance.md) ・ [次：実務ハンズオン演習ガイド →](exercises/README.md) ・ [この章の自己点検](self-check/chapters/07_ai_tools_overview_self_check.md)
+
 > **位置付け：初心者必修**　製品をたくさん試す章ではなく、自分の目的と安全条件に合う候補を絞る章です。
 
 ## この章を始める前に
@@ -334,4 +337,7 @@ PoCが不採用で終わっても失敗とは限りません。「効果が小�
 3. 必要な箇所だけ成果物例と比較し、事実確認と製品選定を混同していないか確認します。
 4. 1点だけ修正し、同じM-01へ戻って再確認します。
 
-[← 06 著作権とAIガバナンス](06_copyright_and_ai_governance.md)｜[学習の入口](README.md)｜[次へ：08 RAGとナレッジマネジメント（任意発展）→](08_rag_and_knowledge_management.md)
+---
+
+> **[学習マップ](START_HERE.md) ｜ 必修編（この章の後に実務ハンズオンへ） ｜ ステップ 8 / 11**
+> [← 前：06 著作権とAIガバナンス](06_copyright_and_ai_governance.md) ・ [次：実務ハンズオン演習ガイド →](exercises/README.md) ・ [この章の自己点検](self-check/chapters/07_ai_tools_overview_self_check.md)

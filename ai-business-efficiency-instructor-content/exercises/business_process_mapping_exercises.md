@@ -1,5 +1,8 @@
 # 業務プロセスマッピング演習
 
+> **[学習マップ](../START_HERE.md) ｜ 実務ハンズオン（第07章の後） ｜ 演習 6 / 8・設計・リスク**
+> [← 前：プロンプト受入テスト](prompt_acceptance_testing_exercises.md) ・ [次：AI利用リスク判断 →](risk_judgment_exercises.md) ・ [演習一覧](README.md) ・ [この演習の自己点検](../self-check/exercises/business_process_mapping_self_check.md)
+
 > このファイルから学習を始める場合は、[用語集](../glossary.md)も開いてください。**PoC（概念実証）**は本格導入前の小規模検証、**KPI**は目標への進み具合を測る指標、**CRM**は顧客情報・商談・対応履歴を管理する仕組み、**RAG**は関係資料を検索して回答材料にする仕組みです。
 
 ## この演習の目的
@@ -321,3 +324,8 @@ AIの文章ではなく、この演習からリンクされた架空元資料、
 ### 次へ
 
 この演習を終えたら、[AI利用リスク判断](risk_judgment_exercises.md)へ進みます。
+
+---
+
+> **[学習マップ](../START_HERE.md) ｜ 実務ハンズオン（第07章の後） ｜ 演習 6 / 8・設計・リスク**
+> [← 前：プロンプト受入テスト](prompt_acceptance_testing_exercises.md) ・ [次：AI利用リスク判断 →](risk_judgment_exercises.md) ・ [演習一覧](README.md) ・ [この演習の自己点検](../self-check/exercises/business_process_mapping_self_check.md)

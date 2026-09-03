@@ -1,5 +1,8 @@
 # 06 著作権とAIガバナンス
 
+> **[学習マップ](START_HERE.md) ｜ 必修編 ｜ ステップ 7 / 11**
+> [← 前：05 ハルシネーションとファクトチェック](05_hallucination_and_fact_checking.md) ・ [次：07 AIツールの用途と使い分け →](07_ai_tools_overview.md) ・ [この章の自己点検](self-check/chapters/06_copyright_and_ai_governance_self_check.md)
+
 > **位置付け：初心者必修**　AI生成物を共有・公開する前に、権利、事実、責任、承認を確認するための章です。
 
 ## この章を始める前に
@@ -530,4 +533,7 @@ AI生成物は自動的に権利問題から自由になるわけではありま
 3. 必要な箇所だけ成果物例と比較し、入力・生成・編集・公開のどこに差があるか記録します。
 4. 1点だけ修正し、公開停止条件を含めて再確認します。自己点検は公開許可や法的判断ではありません。
 
-[← 05 ハルシネーションとファクトチェック](05_hallucination_and_fact_checking.md)｜[学習の入口](README.md)｜[次へ：07 AIツールの用途と使い分け →](07_ai_tools_overview.md)
+---
+
+> **[学習マップ](START_HERE.md) ｜ 必修編 ｜ ステップ 7 / 11**
+> [← 前：05 ハルシネーションとファクトチェック](05_hallucination_and_fact_checking.md) ・ [次：07 AIツールの用途と使い分け →](07_ai_tools_overview.md) ・ [この章の自己点検](self-check/chapters/06_copyright_and_ai_governance_self_check.md)

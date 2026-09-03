@@ -1,5 +1,8 @@
 # 問い合わせ明細からExcel月次報告を作る演習：自己点検ガイド
 
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ 演習 3 / 8・成果物作成**
+> [← 演習本文：問い合わせ明細からExcel月次報告](../../exercises/inquiry_excel_monthly_report_exercises.md) ・ [自己点検一覧](../README.md) ・ [次の演習：引継ぎメモから業務マニュアル →](../../exercises/business_manual_creation_exercises.md)
+
 > [!TIP]
 > 6〜8列の表はGitHubでは横へスクロールします。`連番`を共通キーに、まず`ID・主分類・副論点`、次に`優先確認・品質・集計対象`、最後に`根拠`を確認してください。
 
@@ -267,3 +270,8 @@ Excelを使わない場合も、承認済み対話AIで分類候補を生成し�
 | 自動送信を提案する | `誤分類時の影響、承認者、停止方法は決まっていますか` |
 
 確認例文との完全一致は必要ありません。元資料へ戻れること、数値の整合性、推測を止めること、AI・Excel・人の役割を説明できることを重視します。
+
+---
+
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ 演習 3 / 8・成果物作成**
+> [← 演習本文：問い合わせ明細からExcel月次報告](../../exercises/inquiry_excel_monthly_report_exercises.md) ・ [自己点検一覧](../README.md) ・ [次の演習：引継ぎメモから業務マニュアル →](../../exercises/business_manual_creation_exercises.md)

@@ -1,5 +1,8 @@
 # 05 ハルシネーションとファクトチェック
 
+> **[学習マップ](START_HERE.md) ｜ 必修編 ｜ ステップ 6 / 11**
+> [← 前：04 プロンプトエンジニアリング](04_prompt_engineering.md) ・ [次：06 著作権とAIガバナンス →](06_copyright_and_ai_governance.md) ・ [この章の自己点検](self-check/chapters/05_hallucination_and_fact_checking_self_check.md)
+
 > **位置付け：初心者必修**　AIの回答を業務で使う前に、事実と根拠を自分で確かめるための章です。
 
 ## この章を始める前に
@@ -476,4 +479,7 @@ AI回答の流暢さ、詳しさ、出典表示は正しさの保証ではあり
 3. それでも判断できない箇所だけ成果物例と比較します。
 4. 差分から1点だけ修正し、元資料との照合をもう一度行います。
 
-[← 04 プロンプトエンジニアリング](04_prompt_engineering.md)｜[学習の入口](README.md)｜[次へ：06 著作権とAIガバナンス →](06_copyright_and_ai_governance.md)
+---
+
+> **[学習マップ](START_HERE.md) ｜ 必修編 ｜ ステップ 6 / 11**
+> [← 前：04 プロンプトエンジニアリング](04_prompt_engineering.md) ・ [次：06 著作権とAIガバナンス →](06_copyright_and_ai_governance.md) ・ [この章の自己点検](self-check/chapters/05_hallucination_and_fact_checking_self_check.md)

@@ -1,6 +1,7 @@
 # 01 生成AIの基礎
 
-[学習ガイドへ戻る](START_HERE.md)｜[次の章：02 セキュリティとプライバシー](02_security_and_privacy.md)
+> **[学習マップ](START_HERE.md) ｜ 必修編 ｜ ステップ 2 / 11**
+> [← 前：クイックスタート](setup/participant_quickstart.md) ・ [次：02 セキュリティとプライバシー →](02_security_and_privacy.md) ・ [この章の自己点検](self-check/chapters/01_generative_ai_basics_self_check.md)
 
 ## この章を始める前に
 
@@ -374,4 +375,7 @@ LLM、トークン、コンテキストウィンドウ、マルチモーダル�
 3. 次に「一致必須」と「成果物例」を確認し、自分の表現と違う理由を説明します。
 4. 最後に直す点を1つだけ選び、成果物を修正して再保存します。
 
-[学習ガイドへ戻る](START_HERE.md)｜[次の章：02 セキュリティとプライバシー](02_security_and_privacy.md)
+---
+
+> **[学習マップ](START_HERE.md) ｜ 必修編 ｜ ステップ 2 / 11**
+> [← 前：クイックスタート](setup/participant_quickstart.md) ・ [次：02 セキュリティとプライバシー →](02_security_and_privacy.md) ・ [この章の自己点検](self-check/chapters/01_generative_ai_basics_self_check.md)

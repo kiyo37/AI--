@@ -1,5 +1,8 @@
 # テレビ会議の議事録作成演習：自己点検ガイド
 
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ 演習 2 / 8・成果物作成**
+> [← 演習本文：Zoom・Teams共通のテレビ会議議事録](../../exercises/video_meeting_minutes_exercises.md) ・ [自己点検一覧](../README.md) ・ [次の演習：問い合わせ明細からExcel月次報告 →](../../exercises/inquiry_excel_monthly_report_exercises.md)
+
 このファイルは、[テレビ会議の議事録作成演習](../../exercises/video_meeting_minutes_exercises.md)の自己点検資料です。自力課題の前には完成版を開かず、未確認文字起こしの照合と修正が終わった後の振り返りに使います。
 
 すべて教材用の架空データです。実際の録画・文字起こし・参加者情報へ置き換えて、未承認のAIへ入力しないでください。
@@ -197,4 +200,7 @@ AIが初回から正しい候補を出した場合も、13項目の照合を省�
 
 Zoom・TeamsのAI要約機能を紹介する場合も、対象ライセンスや管理者設定があるときだけの任意発展とし、保存済み架空データによる基本演習を省略しません。操作画面、保存場所、権限、保持機能は変わるため、最新の公式情報と組織設定を優先します。録画・文字起こしの法的可否、同意、個人情報、越境移転（データを国・地域をまたいで扱うこと）などの個別判断は、必要に応じて専門家へ確認してください。
 
+---
 
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ 演習 2 / 8・成果物作成**
+> [← 演習本文：Zoom・Teams共通のテレビ会議議事録](../../exercises/video_meeting_minutes_exercises.md) ・ [自己点検一覧](../README.md) ・ [次の演習：問い合わせ明細からExcel月次報告 →](../../exercises/inquiry_excel_monthly_report_exercises.md)

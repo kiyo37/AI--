@@ -1,5 +1,8 @@
 # メール・議事録・報告書 実践演習
 
+> **[学習マップ](../START_HERE.md) ｜ 実務ハンズオン（第07章の後） ｜ 演習 1 / 8・成果物作成**
+> [← 前：07 AIツールの用途と使い分け](../07_ai_tools_overview.md) ・ [次：Zoom・Teams共通のテレビ会議議事録 →](video_meeting_minutes_exercises.md) ・ [演習一覧](README.md) ・ [この演習の自己点検](../self-check/exercises/email_minutes_report_self_check.md)
+
 ## このページの見取り図
 
 - [目的](#この演習の目的)／[準備](#準備aiを使う2つの経路から選ぶ)
@@ -513,3 +516,8 @@ AIの文章ではなく、この演習からリンクされた架空元資料、
 ### 次へ
 
 この演習を終えたら、[Zoom・Teams共通のテレビ会議議事録演習](video_meeting_minutes_exercises.md)へ進みます。
+
+---
+
+> **[学習マップ](../START_HERE.md) ｜ 実務ハンズオン（第07章の後） ｜ 演習 1 / 8・成果物作成**
+> [← 前：07 AIツールの用途と使い分け](../07_ai_tools_overview.md) ・ [次：Zoom・Teams共通のテレビ会議議事録 →](video_meeting_minutes_exercises.md) ・ [演習一覧](README.md) ・ [この演習の自己点検](../self-check/exercises/email_minutes_report_self_check.md)

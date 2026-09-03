@@ -1,5 +1,8 @@
 # 第10章 総合業務改善プロジェクト
 
+> **[学習マップ](START_HERE.md) ｜ 総合課題 ｜ ステップ 11 / 11**
+> [← 前：09 AI自動化とAIエージェント](09_ai_automation_and_agents.md) ・ [次：学習終了時チェックリスト →](workbooks/course_closeout_checklist.md) ・ [この章の自己点検](self-check/chapters/10_business_application_capstone_self_check.md)
+
 ## 1. この章の目的
 
 これまで学んだ業務分解、プロンプト、セキュリティ、ファクトチェック、権利、ツール選定、受入確認を一つにつなぎ、**AIを使うこと自体ではなく、安全に試せる業務改善案**を作ります。
@@ -254,4 +257,7 @@ AI出力は草案です。そのまま完成版とせず、元の依頼文、回
 
 AI業務効率化は、プロンプトだけでは完成しません。業務目的、入力、役割、例外、検証、承認、測定、停止、改善を一つの流れとして設計します。AIが出した提案も、人が元資料と規程へ戻って確認し、未確認事項を残したまま適切な窓口へ引き継ぎます。
 
-[前へ：実務ハンズオン（基礎・実務活用）](exercises/README.md) ｜ [前へ：第09章（全編）](09_ai_automation_and_agents.md) ｜ [自己点検](self-check/chapters/10_business_application_capstone_self_check.md) ｜ [次へ：終了時チェック](workbooks/course_closeout_checklist.md)
+---
+
+> **[学習マップ](START_HERE.md) ｜ 総合課題 ｜ ステップ 11 / 11**
+> [← 前：09 AI自動化とAIエージェント](09_ai_automation_and_agents.md) ・ [次：学習終了時チェックリスト →](workbooks/course_closeout_checklist.md) ・ [この章の自己点検](self-check/chapters/10_business_application_capstone_self_check.md)

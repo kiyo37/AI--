@@ -1,6 +1,7 @@
 # 08 RAGとナレッジマネジメント 自己点検ガイド
 
-[本編「08 RAG（検索拡張生成）とナレッジマネジメント」へ戻る](../../08_rag_and_knowledge_management.md)
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ ステップ 9 / 11**
+> [← 本編：08 RAGとナレッジマネジメント](../../08_rag_and_knowledge_management.md) ・ [自己点検一覧](../README.md) ・ [次：09 AI自動化とAIエージェント →](../../09_ai_automation_and_agents.md)
 
 > **任意発展の自己点検資料です。** 根拠、版、権限、未回答、人間レビューが成果物に含まれるかを自分で確かめます。実際の社内文書を使うPoCは自習と分け、正式な承認と検証環境を整えてから行います。
 
@@ -255,4 +256,7 @@ Difyを利用できない場合は、任意でこの図の各箱へ「入力」�
 3. 同じ質問セットを再確認し、資料外で止まれるかも試します。
 4. NotebookLMとDifyの機能、画面、料金、データ条件は変わるため、実利用時に公式情報と組織設定を確認します。
 
-[第08章へ戻る](../../08_rag_and_knowledge_management.md)｜[次へ：第09章](../../09_ai_automation_and_agents.md)
+---
+
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ ステップ 9 / 11**
+> [← 本編：08 RAGとナレッジマネジメント](../../08_rag_and_knowledge_management.md) ・ [自己点検一覧](../README.md) ・ [次：09 AI自動化とAIエージェント →](../../09_ai_automation_and_agents.md)

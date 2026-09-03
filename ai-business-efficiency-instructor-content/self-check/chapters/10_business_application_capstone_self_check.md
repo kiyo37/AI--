@@ -1,5 +1,8 @@
 # 第10章 自己点検：総合業務改善プロジェクト
 
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ ステップ 11 / 11**
+> [← 本編：10 総合業務改善プロジェクト](../../10_business_application_capstone.md) ・ [自己点検一覧](../README.md) ・ [次：学習終了時チェックリスト →](../../workbooks/course_closeout_checklist.md)
+
 この資料は、承認・利用条件を確認した対話AIで架空情報から総合提案の草案を作り、人が検証・修正して`capstone_interview.md`、`capstone_proposal.md`、`capstone_review.md`の3成果物を保存した後に使います。下の例と文章を一致させる必要はありません。保存済み例の修正だけでは総合課題の完了になりません。
 
 ## 1. 使い方
@@ -140,4 +143,7 @@ AI：分類候補、根拠候補、返信草案、確認観点を提示する。
 
 再挑戦後は、`capstone_proposal.md`だけでなく、質問と根拠を残した`capstone_interview.md`、差分と修正理由を残した`capstone_review.md`も保存します。記入欄が不足している場合も白紙から構成を作らず、上記のひな形へ行を追加します。これらは架空情報だけで作り、公開リポジトリへコミットしません。
 
-[第10章へ戻る](../../10_business_application_capstone.md) ｜ [学習マップ](../../START_HERE.md) ｜ [終了時チェック](../../workbooks/course_closeout_checklist.md)
+---
+
+> **[学習マップ](../../START_HERE.md) ｜ 自己点検 ｜ ステップ 11 / 11**
+> [← 本編：10 総合業務改善プロジェクト](../../10_business_application_capstone.md) ・ [自己点検一覧](../README.md) ・ [次：学習終了時チェックリスト →](../../workbooks/course_closeout_checklist.md)

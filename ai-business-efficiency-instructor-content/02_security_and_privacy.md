@@ -1,6 +1,7 @@
 # 02 セキュリティとプライバシー
 
-[前の章：01 生成AIの基礎](01_generative_ai_basics.md)｜[学習ガイドへ戻る](START_HERE.md)｜[次の章：03 業務プロセス分析](03_business_process_analysis.md)
+> **[学習マップ](START_HERE.md) ｜ 必修編 ｜ ステップ 3 / 11**
+> [← 前：01 生成AIの基礎](01_generative_ai_basics.md) ・ [次：03 業務プロセス分析 →](03_business_process_analysis.md) ・ [この章の自己点検](self-check/chapters/02_security_and_privacy_self_check.md)
 
 ## この章を始める前に
 
@@ -524,4 +525,7 @@ AIが「架空だから必ず安全」と断定していないかを紙上の判
 3. 「一致必須」「成立する別解」「危険な状態」を順に確認します。
 4. 最後に、安全な代替方法または相談先のどちらか1点を具体化し、成果物を再保存します。
 
-[前の章：01 生成AIの基礎](01_generative_ai_basics.md)｜[学習ガイドへ戻る](START_HERE.md)｜[次の章：03 業務プロセス分析](03_business_process_analysis.md)
+---
+
+> **[学習マップ](START_HERE.md) ｜ 必修編 ｜ ステップ 3 / 11**
+> [← 前：01 生成AIの基礎](01_generative_ai_basics.md) ・ [次：03 業務プロセス分析 →](03_business_process_analysis.md) ・ [この章の自己点検](self-check/chapters/02_security_and_privacy_self_check.md)
