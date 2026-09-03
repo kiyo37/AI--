@@ -1,21 +1,24 @@
 # 第10章 自己点検：総合業務改善プロジェクト
 
-この資料は、自分の総合提案を作って保存した後に使います。下の例と文章を一致させる必要はありません。
+この資料は、承認・利用条件を確認した対話AIで架空情報から総合提案の草案を作り、人が検証・修正して`capstone_interview.md`、`capstone_proposal.md`、`capstone_review.md`の3成果物を保存した後に使います。下の例と文章を一致させる必要はありません。保存済み例の修正だけでは総合課題の完了になりません。
 
 ## 1. 使い方
 
-1. 自分の成果物を閉じずに保存する
+1. 3成果物を閉じずに保存する
 2. ヒント1だけを見る
 3. 修正できなければヒント2を見る
 4. 成果物例と比較する
-5. 違いの理由を一つ書く
+5. 違いの理由を`capstone_review.md`へ一つ書く
 6. 一か所以上修正し、元資料へ再照合する
 
 ## 2. ヒント1：戻る資料
 
 - 業務の事実：[架空の業務担当者プロフィール](../../sample-data/business_interview_role_profile.md)
 - 依頼時点の不明事項：[最初の依頼文](../../sample-data/business_interview_initial_request.md)
-- AIなし経路の問題発見：[問題を含む保存済みAI提案例](../../sample-outputs/business_interview_saved_responses.md)
+- 自分のAI出力と比較する問題例：[問題を含む保存済みAI提案例](../../sample-outputs/business_interview_saved_responses.md)
+- 質問、回答、根拠の記録欄：[総合課題ヒアリング記録ひな形](../../workbooks/capstone_interview_template.md)
+- 総合提案の記入欄：[実務転用シート](../../workbooks/work_transfer_sheet.md)
+- AI出力の照合、修正、再挑戦の記録欄：[総合課題レビュー記録ひな形](../../workbooks/capstone_review_template.md)
 - 役割分担：[第03章](../../03_business_process_analysis.md)
 - 入力・停止：[第02章](../../02_security_and_privacy.md)
 - 出力検証：[第05章](../../05_hallucination_and_fact_checking.md)
@@ -117,24 +120,24 @@ AI：分類候補、根拠候補、返信草案、確認観点を提示する。
 
 ## 10. 成立する別解
 
-- AIを使わず、まず分類名と確認項目だけを標準化する
+- AI出力を検証した結果、最終的な業務改善案ではAIを採用せず、まず分類名と確認項目だけを標準化する
 - 返信草案を対象外にし、分類候補だけを試す
 - 一般質問だけを対象にし、登録変更を全件対象外にする
 - RAGを提案せず、現行FAQの版管理改善を先に行う
 - 自動化せず、承認後の転記手順だけを整理する
 
-AI利用を小さくする案や、AIを使わない案も、目的と安全性に合えば成立します。
+学習では対話AIを実際に操作して提案草案を評価します。その評価結果を根拠に、実務案でAI利用を小さくする、またはAIを採用しない結論を選ぶことは、目的と安全性に合えば成立します。
 
 ## 11. 再挑戦記録
 
-| 記録 | 内容 |
-|---|---|
-| 見つけた差分 |  |
-| 差分が生じた理由 |  |
-| 修正した一か所 |  |
-| 再確認した元資料 |  |
-| まだ残る未確認 |  |
+自己点検で見つけた次の内容を、`capstone_review.md`の「6. 自己点検後の再挑戦を記録する」へ記入します。
 
-再挑戦後は、`capstone_proposal.md`だけでなく、質問と根拠を残した`capstone_interview.md`、差分と修正理由を残した`capstone_review.md`も保存します。これらは架空情報だけで作り、公開リポジトリへコミットしません。
+- 見つけた差分
+- 差分が生じた理由
+- 修正した一か所
+- 再確認した元資料
+- まだ残る未確認
+
+再挑戦後は、`capstone_proposal.md`だけでなく、質問と根拠を残した`capstone_interview.md`、差分と修正理由を残した`capstone_review.md`も保存します。記入欄が不足している場合も白紙から構成を作らず、上記のひな形へ行を追加します。これらは架空情報だけで作り、公開リポジトリへコミットしません。
 
 [第10章へ戻る](../../10_business_application_capstone.md) ｜ [学習マップ](../../START_HERE.md) ｜ [終了時チェック](../../workbooks/course_closeout_checklist.md)

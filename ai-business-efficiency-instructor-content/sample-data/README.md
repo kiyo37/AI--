@@ -9,7 +9,7 @@
 - AI出力は必ず元資料と人が照合します。
 - 初回演習では、[クイックスタート](../setup/participant_quickstart.md)にある「最初に送る全文」を一度にコピーします。このフォルダーの元メモだけを先にAIへ送る必要はありません。
 - 実データを扱うPoCは、この教材では行いません。組織の正式な承認手続と検証環境を別途用意します。
-- 製品を利用できない場合は、[保存済み代替出力](../sample-outputs/README.md)と紙上カードを使います。
+- 特定製品を利用できない場合は、本人または組織が認めた別のAIを使います。承認済みAIを一つも利用できなければ、環境を準備できるまで演習を停止します。[保存済み比較出力](../sample-outputs/README.md)は、自分でAIを実行して照合した後にだけ使います。
 
 ## ファイル一覧
 
@@ -30,5 +30,4 @@
 | [rag_training_rules_old.md](rag_training_rules_old.md) | 新旧版の競合を見抜くための失効済み規程 |
 | [rag_question_cards.md](rag_question_cards.md) | 資料内・資料外・版競合・攻撃的入力の質問カード |
 | [automation_inquiry_cases.md](automation_inquiry_cases.md) | 自動化の通常・例外・停止ケース |
-| [automation_flow_cards.md](automation_flow_cards.md) | 登録不要で自動化フローを並べる紙上カード |
-
+| [automation_flow_cards.md](automation_flow_cards.md) | AIが出した自動化案を人が並べ直し、安全条件を記録する設計カード |

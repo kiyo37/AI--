@@ -248,6 +248,9 @@ $markdownFiles = @(Get-ChildItem -LiteralPath $rootPath -Recurse -File -Filter '
 $forbiddenContentPatterns = @(
     '(?i)\u8b1b\u5e2b',
     '(?i)\u53d7\u8b1b\u8005\u7248',
+    '(?i)AI\u306a\u3057',
+    '(?i)AI\u3092\u4f7f\u308f\u306a\u3044\u7d4c\u8def',
+    '(?i)\u7d19\u4e0a\u7d4c\u8def',
     '(?i)instructor_preflight|instructor_observation_sheet|training_slide_outline',
     '(?i)(?:answers|participant|fallback-output|distribution)/',
     '(?i)00_course_overview|10_training_design_workshop|11_instructor_delivery_practicum',
@@ -303,7 +306,9 @@ $requiredFiles = @(
     '07_ai_tools_overview.md',
     '08_rag_and_knowledge_management.md',
     '09_ai_automation_and_agents.md',
-    '10_business_application_capstone.md'
+    '10_business_application_capstone.md',
+    'workbooks/capstone_interview_template.md',
+    'workbooks/capstone_review_template.md'
 )
 
 foreach ($required in $requiredFiles) {
@@ -351,7 +356,7 @@ $chapterChecks = [ordered]@{
 $requiredChapterPatterns = [ordered]@{
     'personal route' = '\u500b\u4eba\u5b66\u7fd2'
     'organization route' = '\u7d44\u7e54\u5229\u7528'
-    'no-AI route' = 'AI\u306a\u3057'
+    'hands-on AI operation' = 'AI\u306e\u5b9f\u64cd\u4f5c'
     'self-check' = '\u81ea\u5df1\u70b9\u691c'
     'stop condition' = '\u505c\u6b62\u6761\u4ef6'
 }
@@ -380,6 +385,47 @@ foreach ($chapter in $chapterChecks.Keys) {
     $checkLeaf = Split-Path -Leaf $checkRelative
     if ($chapterText -notmatch [regex]::Escape($checkLeaf)) {
         Add-ValidationError ($chapter + ' : does not link to its self-check file.')
+    }
+}
+
+$capstoneReferences = [ordered]@{
+    '10_business_application_capstone.md' = @(
+        'work_transfer_sheet.md',
+        'capstone_interview_template.md',
+        'capstone_review_template.md',
+        'capstone_interview.md',
+        'capstone_proposal.md',
+        'capstone_review.md'
+    )
+    'workbooks/README.md' = @(
+        'work_transfer_sheet.md',
+        'capstone_interview_template.md',
+        'capstone_review_template.md'
+    )
+    'self-check/chapters/10_business_application_capstone_self_check.md' = @(
+        'work_transfer_sheet.md',
+        'capstone_interview_template.md',
+        'capstone_review_template.md',
+        'capstone_interview.md',
+        'capstone_proposal.md',
+        'capstone_review.md'
+    )
+}
+
+foreach ($referenceFile in $capstoneReferences.Keys) {
+    $referencePath = Join-Path $rootPath $referenceFile
+    if (-not (Test-Path -LiteralPath $referencePath)) {
+        Add-ValidationError ('missing capstone reference file: ' + $referenceFile)
+        continue
+    }
+    $referenceText = Get-Utf8Text $referencePath
+    if ($null -eq $referenceText) {
+        continue
+    }
+    foreach ($requiredReference in $capstoneReferences[$referenceFile]) {
+        if ($referenceText -notmatch [regex]::Escape($requiredReference)) {
+            Add-ValidationError ($referenceFile + ' : missing capstone template or output reference: ' + $requiredReference)
+        }
     }
 }
 

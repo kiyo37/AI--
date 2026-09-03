@@ -9,9 +9,9 @@
 
 - [最初の依頼文](../../sample-data/business_interview_initial_request.md)を自分で開く
 - [架空の業務担当者プロフィール](../../sample-data/business_interview_role_profile.md)は、質問を書いた後に対応カードだけを開く
-- AIを利用できない場合は、段階開示プロフィールでヒアリングを終えた後に[保存済みの問題提案例](../../sample-outputs/business_interview_saved_responses.md)を元資料と照合して修正する
-- [学習用記録シート](../../workbooks/business_interview_record_sheet.md)を編集可能なMarkdownまたは印刷版で用意する
-- 承認済み対話AIがない場合も、質問・業務分解・提案を紙上で完成できるようにする
+- [学習用記録シート](../../workbooks/business_interview_record_sheet.md)を編集可能なMarkdownで用意する。印刷物は人間レビューのメモにだけ使う
+- 承認済み対話AIで、質問の抜け確認と提案書草案の生成を実行する
+- 承認済み対話AIがなければ環境を準備するまで停止し、[保存済みの問題提案例](../../sample-outputs/business_interview_saved_responses.md)だけで完了扱いにしない
 
 ## 2. 最初の依頼文の読み取り例
 
@@ -133,7 +133,9 @@
 
 対象AIのプラン、この用途で入力可能な情報、保存・学習利用・処理地域・再委託・ログ・削除、費用、試行責任者、開始日は要確認である。窓口責任者、IT・セキュリティ、個人情報、法務・契約等の確認後に試行可否を決定する。
 
-## 9. 保存済み問題提案への修正例
+## 9. 保存済み問題提案との任意比較
+
+自分でAIへ提案草案を生成させ、プロフィールとの照合を終えた後に使います。次の問題が自分のAI出力にもなかったかを確認します。
 
 | 問題 | 修正 |
 |---|---|
